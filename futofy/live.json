@@ -1,8 +1,8 @@
 {
-    "version": 3,
-    "sha256": "cad0c717f54f51091ab30799be98a6b28a4ba3ae5adcd975059460cbfa323abb",
-    "signature": "ed25519:5chYB9xE211GIVz1bZcZg5G/l/dcpXYTHApI89LhgTozhfLIle+hizvRsOx/Q9vVaIidMb9K3hxyuuO+oMa0Ag==",
-    "bytes": 701,
-    "published_at": "2026-11-14T03:26:46+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/mdfahadhossainfaysal0011-creator/futofy-app-data@5446d30/futofy/v3.json"
+    "version": 4,
+    "sha256": "d582a46306f1ea31090dbf168c090781c66b86831869a01064e3aa2e0ee99475",
+    "signature": "ed25519:/54m98MniwzDsMuxhVR05iMABbcgbER1xkuUQqjRhp/1me01BbPeUbOCfNWB1aC989hwWI/vVx1Q7ghyGbs+CA==",
+    "bytes": 700,
+    "published_at": "2026-11-14T03:29:30+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/mdfahadhossainfaysal0011-creator/futofy-app-data@ff69e5b/futofy/v4.json"
 }
