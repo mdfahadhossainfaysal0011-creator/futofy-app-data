@@ -1,0 +1,25 @@
+{
+    "schema": 1,
+    "type": "futofy_config",
+    "app": "futofy",
+    "version": 3,
+    "generated_at": "2026-11-14T03:26:42+00:00",
+    "config": {
+        "min_android_build": 0,
+        "update_url_android": "https://play.google.com/store/apps/details?id=com.futofysports.app",
+        "maintenance": false,
+        "maintenance_en": "",
+        "notice_enabled": false,
+        "notice_key": "",
+        "notice_en": "",
+        "notice_url": "",
+        "promo_enabled": false,
+        "promo_key": "",
+        "promo_title_en": "",
+        "promo_body_en": "",
+        "promo_button_en": "",
+        "promo_url": "",
+        "rating_enabled": true,
+        "live_match_enabled": false
+    }
+}
